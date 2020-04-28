@@ -4,7 +4,7 @@
 
 Project - Crawl popular websites and create a database of Indian movie celebrities containing their images and personality traits.
 
-I have selected website [Wikipedia Actors list](http://en.wikipedia.org/wiki/List_of_Indian_film_actors) and  [Wikipedia Actresses List](https://en.wikipedia.org/wiki/List_of_Indian_film_actresses) for web scrapping. Wikipedia provides the list of all known indian celebrities with their bio, images etc. And they are stored into MongoDB Atlas.
+I have selected website [Wikipedia Actors list](http://en.wikipedia.org/wiki/List_of_Indian_film_actors) and  [Wikipedia Actresses List](https://en.wikipedia.org/wiki/List_of_Indian_film_actresses) for web scrapping. Wikipedia provides the list of all known indian celebrities with their bio, images etc. And they are stored into **MongoDB Atlas**.The **snapshots** folder has the snapshots taken of the Mongodb collection and collected **photos** folder.
 
 I have scrapped all information related to celebrities. list of scrapped information as per below.<br />
 
